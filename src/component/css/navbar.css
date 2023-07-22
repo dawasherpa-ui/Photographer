@@ -1,0 +1,14 @@
+#nav {
+  padding-block: 12px;
+  font-size: 20px;
+  width: 100vw;
+  position: fixed;
+  z-index: 10;
+  background-color: rgba(32, 31, 31, 0.484);
+}
+.navbar-collapse {
+  text-align: center;
+}
+ul li :hover {
+  text-decoration: underline;
+}

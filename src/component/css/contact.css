@@ -1,0 +1,32 @@
+.contact-content {
+  position: absolute;
+  height: 100vh;
+  width: 100vw;
+  background-color: white;
+}
+.contact {
+  margin-top: 10vh;
+  height: 80vh;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  place-items: center;
+}
+.contact-image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.contact-info {
+  width: 45vw;
+}
+.contact-footer {
+  height: 10vh;
+  display: flex;
+  justify-content: center;
+}
+.contact-footer a {
+  padding-inline: 10px;
+}
+.contact-footer img {
+  width: 50px;
+}

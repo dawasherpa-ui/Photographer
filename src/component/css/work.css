@@ -1,0 +1,14 @@
+.work-background {
+  background-color: rgba(240, 248, 255, 0.178);
+  background-image: url(../image/backgroundImg//nik-guiney-AFAJrekYoS8-unsplash.jpg);
+  background-blend-mode: screen;
+  height: 100vh;
+  width: 100vw;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  position: absolute;
+}
+.work-content {
+  margin-top: 10vh;
+}

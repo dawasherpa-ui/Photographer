@@ -1,0 +1,21 @@
+.home-content img {
+  height: 100vh;
+  width: 100vw;
+  object-fit: cover;
+}
+.home-content {
+  overflow: hidden;
+}
+.carouselBox {
+  border: "2px solid red";
+  height: "70vh";
+  width: "70vw";
+  display: "flex";
+  justify-content: "center";
+  align-items: "center";
+}
+.carouselContent {
+  border: "2px solid red";
+  padding-block: "10vh";
+  width: "300px";
+}
