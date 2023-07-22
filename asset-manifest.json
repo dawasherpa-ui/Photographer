@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Photographer/static/css/main.2b942419.css",
+    "main.js": "/Photographer/static/js/main.7017d0b3.js",
+    "static/js/787.76b39a49.chunk.js": "/Photographer/static/js/787.76b39a49.chunk.js",
+    "static/media/pexels-kaique-rocha-243757.jpg": "/Photographer/static/media/pexels-kaique-rocha-243757.5f0bf63d24b23d011f71.jpg",
+    "static/media/sergey-sokolov-yxJavcfExYs-unsplash.jpg": "/Photographer/static/media/sergey-sokolov-yxJavcfExYs-unsplash.061f61641616d3233e43.jpg",
+    "static/media/nik-guiney-AFAJrekYoS8-unsplash.jpg": "/Photographer/static/media/nik-guiney-AFAJrekYoS8-unsplash.d18e780e25801a341ddb.jpg",
+    "static/media/the-nigmatic-YefEvN5CDLY-unsplash.jpg": "/Photographer/static/media/the-nigmatic-YefEvN5CDLY-unsplash.4a00723bde3bfd8e0854.jpg",
+    "static/media/william-thomas-ny6tO4ItOEY-unsplash.jpg": "/Photographer/static/media/william-thomas-ny6tO4ItOEY-unsplash.691b4334f80966ef773e.jpg",
+    "static/media/Happy Sunshine PNG - Free Download-modified.png": "/Photographer/static/media/Happy Sunshine PNG - Free Download-modified.80fd384a649ba98da4f3.png",
+    "static/media/undraw_Contact_us_re_4qqt.png": "/Photographer/static/media/undraw_Contact_us_re_4qqt.e5e30c8ce14b3f8fa8e1.png",
+    "static/media/whatsapp.png": "/Photographer/static/media/whatsapp.1dd8ca2765f1f177ab22.png",
+    "static/media/instagram.png": "/Photographer/static/media/instagram.75e0546a6b5abe4c0506.png",
+    "static/media/facebook.png": "/Photographer/static/media/facebook.01a470d813915c298403.png",
+    "index.html": "/Photographer/index.html",
+    "main.2b942419.css.map": "/Photographer/static/css/main.2b942419.css.map",
+    "main.7017d0b3.js.map": "/Photographer/static/js/main.7017d0b3.js.map",
+    "787.76b39a49.chunk.js.map": "/Photographer/static/js/787.76b39a49.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2b942419.css",
+    "static/js/main.7017d0b3.js"
+  ]
+}
