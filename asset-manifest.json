@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Photographer/static/css/main.2b942419.css",
-    "main.js": "/Photographer/static/js/main.7017d0b3.js",
+    "main.js": "/Photographer/static/js/main.0a2e941e.js",
     "static/js/787.76b39a49.chunk.js": "/Photographer/static/js/787.76b39a49.chunk.js",
     "static/media/pexels-kaique-rocha-243757.jpg": "/Photographer/static/media/pexels-kaique-rocha-243757.5f0bf63d24b23d011f71.jpg",
     "static/media/sergey-sokolov-yxJavcfExYs-unsplash.jpg": "/Photographer/static/media/sergey-sokolov-yxJavcfExYs-unsplash.061f61641616d3233e43.jpg",
@@ -15,11 +15,11 @@
     "static/media/facebook.png": "/Photographer/static/media/facebook.01a470d813915c298403.png",
     "index.html": "/Photographer/index.html",
     "main.2b942419.css.map": "/Photographer/static/css/main.2b942419.css.map",
-    "main.7017d0b3.js.map": "/Photographer/static/js/main.7017d0b3.js.map",
+    "main.0a2e941e.js.map": "/Photographer/static/js/main.0a2e941e.js.map",
     "787.76b39a49.chunk.js.map": "/Photographer/static/js/787.76b39a49.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2b942419.css",
-    "static/js/main.7017d0b3.js"
+    "static/js/main.0a2e941e.js"
   ]
 }
